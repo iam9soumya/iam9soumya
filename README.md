@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Soumyajoti Sen
+- 👀 I’m interested in full stack developement.
+- 🌱 I’m currently learning java
+- 📫 How to reach me soumya42sen@gmail.com
